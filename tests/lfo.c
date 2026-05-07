@@ -6,8 +6,8 @@
 
 #define SAMPLES_PER_SEC (48000.0)
 
-#include "../util.h"
-#include "../lfo.h"
+#include "../audio/util.h"
+#include "../audio/lfo.h"
 
 static struct lfo_state lfo;
 

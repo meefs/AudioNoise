@@ -2,6 +2,5 @@
 *.raw
 *.o
 convert
-gensin
-gensin.h
 __pycache__/
+build/
